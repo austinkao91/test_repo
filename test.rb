@@ -1,3 +1,3 @@
-require_relative "plugins/sample.rb"
+require_relative "git_subtree/sample.rb"
 hello
 
