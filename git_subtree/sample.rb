@@ -3,5 +3,6 @@ def hello
 end
 
 def goodbye
-  puts "goodbye world"
+  puts "goodbye stuff"
 end
+
